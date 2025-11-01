@@ -31,3 +31,8 @@ cash blasters
 https://lura.booth.pm/items/3061165
 
 https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218
+
+https://assetstore.unity.com/packages/3d/environments/blocky-cliff-formations-294699
+
+for it's animations
+https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
