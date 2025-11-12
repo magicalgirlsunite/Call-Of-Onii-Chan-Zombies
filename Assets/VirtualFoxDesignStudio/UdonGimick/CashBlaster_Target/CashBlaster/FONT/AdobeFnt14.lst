@@ -1,0 +1,57 @@
+%!Adobe-FontList 1.14
+%Locale:0x411
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\BIG_FOX\Desktop\UDON_Develop\UDON_Develop\Assets\LuraTesting\SlotMachine\Font\DSEG-LICENSE.txt
+FileModTime:1611736848
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\BIG_FOX\Desktop\UDON_Develop\UDON_Develop\Assets\LuraTesting\SlotMachine\Font\DSEG-LICENSE.txt.meta
+FileModTime:1611736875
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\BIG_FOX\Desktop\UDON_Develop\UDON_Develop\Assets\LuraTesting\SlotMachine\Font\DSEG7ClassicMini-Bold SDF.asset
+FileModTime:1611819396
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\BIG_FOX\Desktop\UDON_Develop\UDON_Develop\Assets\LuraTesting\SlotMachine\Font\DSEG7ClassicMini-Bold SDF.asset.meta
+FileModTime:1611819286
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DSEG7ClassicMini-Bold
+FamilyName:DSEG7 Classic Mini
+StyleName:Bold
+FullName:DSEG7 Classic Mini-Bold
+MenuName:DSEG7 Classic Mini
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\BIG_FOX\Desktop\UDON_Develop\UDON_Develop\Assets\LuraTesting\SlotMachine\Font\DSEG7ClassicMini-Bold.ttf
+DataFormat:sfntData
+FileLength:22908
+FileModTime:1611734798
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\BIG_FOX\Desktop\UDON_Develop\UDON_Develop\Assets\LuraTesting\SlotMachine\Font\DSEG7ClassicMini-Bold.ttf.meta
+FileModTime:1611735553
+%EndFont
+

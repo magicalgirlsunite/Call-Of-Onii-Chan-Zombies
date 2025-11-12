@@ -1,0 +1,79 @@
+This document is for V1.0 of the script. Future updates may make changes to this process.
+
+[========================================HOW TO SET UP=========================================]
+
+[Easy Method]
+
+1 - Create an Empty Object in your heirarchy.
+2 - Attach the "DashAndDoubleJump" script to the Empty Object.
+3 - You can now dash and double jump!
+
+[Easier Method]
+
+1 - Drag the included prefab into your heirarchy.
+
+[=========================================HOW IT WORKS=========================================]
+
+[---------------------------------------------DASH---------------------------------------------]
+
+[Description]
+
+You can dash by double tapping forward quickly whilst airborne. This should send you forward 
+at quick velocity for a short time and play a dash sfx (not included). Once you dash, a 
+cool-down timer for the ability begins. Once that cool-down is completed, it plays a dash 
+ready sfx (also not included).
+
+[Variables]
+
+1 - Dash Speed controls how fast you move forward while dashing.
+2 - Dash Duration controls how long the dash lasts.
+3 - Dash Cooldown Time controls how long the cooldown lasts before you can dash again.
+4 - Dash Double Tap Threshold controls the amount of time between inputs to initiate the dash.
+5 - Dash Audio Source plays when the dash ability is used.
+6 - Dash Ready Audio Source plays when the cooldown period has ended.
+
+[-----------------------------------------DOUBLE JUMP------------------------------------------]
+
+[Description]
+
+You can double jump by tapping jump twice. Once on the ground and again while airborne. The 
+script detects if the player is grounded before resetting max jumps variable to zero. Jumping
+will play a jump sfx (not included).
+
+[Variables]
+
+1 - Jump Force controls how strong jumps are.
+2 - Max Jumps controls how many jumps a player gets before needing to land to jump again.
+3 - Jump Audio Source plays each time the player jumps.
+
+[=============================================TOS=============================================]
+
+[Definitions]
+
+1 - "The Script" refers to the copy of the DashAndDoubleJump script provided to you upon purchase.
+2 - "Public Worlds" refers to a world available for public visits in the game VRChat.
+
+
+[Do's]
+
+1 - You can edit The Script to your liking for personal use.
+2 - Make Public Worlds using The Script or your personal modified versions of The Script.
+3 - Sell/Commission worlds using The Script or your personal modified versions of The Script so
+long as you and the commissioning party owns a legal copy of The Script and the TOS section of 
+this document is provided with the finished product.
+
+[Dont's]
+
+1 - Use The Script for commercial purposes.
+2 - Redistribute or sell The Script or modified versions of The Script to a third party UNLESS
+both you and the third party own a legal copy of The Script.
+3 - Use The Script in any advertising or games other than VRChat without the explicit permission
+from NuxiBunni.
+
+[Disclaimers]
+
+1 - This copy of The Script is single purchase, single user.
+2 - NuxiBunni or NuxiBunni affiliates are not liable for any misuse of The Script.
+3 - Because of its digital nature, NuxiBunni will not be offering any refunds for this product.
+4 - These terms of service may change at any point in the future without any prior warning. 
+Always check the Read Me ! document contained with each new version of this script.

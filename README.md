@@ -35,4 +35,9 @@ https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-
 https://assetstore.unity.com/packages/3d/environments/blocky-cliff-formations-294699
 
 for it's animations
-https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+https://sketchfab.com/3d-models/zombie-73ef58af341e46afba1da53366ed79cf
+
+particle beams
+https://booth.pm/en/items/1379367
+
+https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834
