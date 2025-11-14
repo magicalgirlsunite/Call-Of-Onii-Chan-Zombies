@@ -41,3 +41,8 @@ particle beams
 https://booth.pm/en/items/1379367
 
 https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834
+
+Sticky pick up
+https://alexottr.gumroad.com/l/stickypickup?layout=discover&recommended_by=search
+
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496

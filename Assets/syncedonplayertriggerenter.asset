@@ -43,6 +43,7 @@ MonoBehaviour:
     EXTERN, \"VRCUdonCommonInterfacesIUdonEventReceiver.__SendCustomNetworkEvent__VRCUdonCommonInterfacesNetworkEventTarget_SystemString__SystemVoid\"\r\n       
     JUMP, 0xFFFFFFFC\r\n    \r\n    .export particlecolider\r\n    \r\n    particlecolider:\r\n   
     \r\n        PUSH, otherobjecttoggled\r\n        PUSH, __instance_5\r\n       
+    COPY\r\n        PUSH, otherobjecttoggled\r\n        PUSH, __instance_6\r\n       
     COPY\r\n        PUSH, __instance_6\r\n        PUSH, __Boolean_1\r\n        EXTERN,
     \"UnityEngineGameObject.__get_activeSelf__SystemBoolean\"\r\n        PUSH, __Boolean_1\r\n       
     PUSH, __value_1\r\n        EXTERN, \"SystemBoolean.__op_UnaryNegation__SystemBoolean__SystemBoolean\"\r\n       
@@ -242,7 +243,7 @@ MonoBehaviour:
       uid: 5e4bf485-ea43-40e7-bfc9-b1848daf6945
       position: {x: 263.69675, y: 646.4836}
       nodeUIDs:
-      - 
+      - 6c76228e-f96d-4c33-9139-99a6de3281aa|0
       flowUIDs: []
       nodeValues:
       - unityObjectValue: {fileID: 0}
